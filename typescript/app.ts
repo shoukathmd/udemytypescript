@@ -1,9 +1,14 @@
 // string
 let myName: string = 'Max';
 // myName = 28;
+let myAge: number = 27;
+let anything;
+anything = 12;
+
+// myName = 30;
 
 // number
-let myAge: number = 27;
+// let myAge: number = 27;
 // myAge = 'Max';
 
 // boolean
